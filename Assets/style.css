@@ -3,3 +3,53 @@ font-family: 'Permanent Marker', cursive;
 font-family: 'Luckiest Guy', cursive;
 font-family: 'Nanum Pen Script', cursive;
 */
+
+body {
+    background-image: url("https://image.freepik.com/free-photo/gray-cement-wall-background_1372-450.jpg");
+}
+
+.title {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.jumbotron {
+    background-color: rgb(192, 192, 192);
+}
+
+.navbar {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.picture {
+    width: 100%;
+}
+
+footer {
+    clear: both;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid rgb(70, 130, 180, 0.4);
+    height: 100px;
+  }
+  
+  #social {
+    color:  lightgrey;
+    margin: 8px;
+  }
+  
+  
+  #social:hover {
+  
+    color: steelblue;
+    
+  }
+  
+  h3, h2 {
+    line-height: 22px;
+    font-size: 27px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+  }
